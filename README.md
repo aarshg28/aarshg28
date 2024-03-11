@@ -33,7 +33,7 @@ Apache Airflow, AWS Glue, Google Cloud Dataflow<br>
 Git<br>
 
 ## Certifications
-AWS Academy Graduate - AWS Academy Data Analytics <a href="https://www.credly.com/badges/d92c4431-59f1-4954-acc4-478c753e1010)https://www.credly.com/badges/d92c4431-59f1-4954-acc4-478c753e1010"><br>
+AWS Academy Graduate - AWS Academy Data Analytics <a href="https://www.credly.com/badges/d92c4431-59f1-4954-acc4-478c753e1010"><br>
 Data Science on Google Cloud <a href="https://www.cloudskillsboost.google/public_profiles/34d17cd9-cfee-4463-9711-50b3bba72c7d/badges/1735536?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share"> <br>
 Google Cloud Essentials <a href="https://www.cloudskillsboost.google/public_profiles/34d17cd9-cfee-4463-9711-50b3bba72c7d/badges/1667406?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share"><br>
 
